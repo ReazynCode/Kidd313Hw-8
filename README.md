@@ -9,7 +9,7 @@
 
 ## PURPOSE OF SOFTWARE
 
-This project implements a reusable matrix math library in both **C (C99)** and **C++ (C++17)**.  
+This assignment implements a reusable matrix math library in both **C (C99)** and **C++ (C++17)**.  
 The objective is to show how the same operations can be written in a procedural vs. object-oriented programming.
 
 The program supports:
@@ -37,7 +37,7 @@ To build the C and C++ versions using the provided `makefile`, run:
 
 ## BUILD INSTRUCTIONS
 
-To compile and run your code using the Makefile:
+To compile using the Makefile:
 
 ```bash
 # Compile both versions:
@@ -49,9 +49,6 @@ make
 # Run the C version:
 ./test_c
 ```
-
-
-
 ## TESTING METHODOLOGY
 
 Both the C and C++ drivers go beyond the base assignment by running a full suite of tests to validate all functionality.
